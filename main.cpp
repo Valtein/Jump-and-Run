@@ -1,3 +1,8 @@
+/*
+ *  Entwickler:
+ *  Kevin McCallister
+*/
+
 #include <QApplication>
 #include "gamewindow.h"
 
